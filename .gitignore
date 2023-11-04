@@ -1,0 +1,6 @@
+./.idea
+./glove
+./models
+./pickle
+./trained_nn
+./.ipynb_checkpoints
